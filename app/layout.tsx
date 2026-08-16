@@ -8,7 +8,7 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://cartago-rent-car.pages.dev"),
+  metadataBase: new URL("https://cartago-rent-car-mahdia.ahmed-mhadhbil-75.chatgpt.site"),
   title: "Cartago Rent Car Mahdia | Location de voitures",
   description: "Location de voitures à Mahdia. Consultez les véhicules, obtenez une estimation et envoyez votre demande de réservation directement sur WhatsApp.",
   openGraph: {
